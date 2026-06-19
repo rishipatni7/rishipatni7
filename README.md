@@ -1,5 +1,7 @@
-#💫About Me:
-Final Year CSE Student ’27 @Jawaharlal Nehru Engineering College (MGM University), Chhatrapati Sambhajinagar <br>SQL | DBMS <br>Java | Full-Stack Web Development 
+💫About Me:
+Final Year CSE Student ’27 
+<br>@Jawaharlal Nehru Engineering College (MGM University), Chhatrapati Sambhajinagar
+<br>SQL | DBMS <br>Java | Full-Stack Web Development 
 
 
 ## 🌐 Socials:
